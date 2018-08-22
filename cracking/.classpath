@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArraysStrings"/>
+	<classpathentry kind="src" path="common"/>
+	<classpathentry excluding="_7Intersection/|_4Partition/|_8LoopDetection/" kind="src" path="LinkedLists"/>
+	<classpathentry kind="src" path="LinkedLists/_4Partition"/>
+	<classpathentry kind="src" path="LinkedLists/_7Intersection"/>
+	<classpathentry kind="src" path="LinkedLists/_8LoopDetection"/>
+	<classpathentry kind="src" path="moderate"/>
+	<classpathentry excluding="_7MissingInt/" kind="src" path="SortingSearching"/>
+	<classpathentry kind="src" path="SortingSearching/_7MissingInt"/>
+	<classpathentry excluding="_6AnimalShelter/|_5SortStack/" kind="src" path="StacksQueues"/>
+	<classpathentry kind="src" path="StacksQueues/_5SortStack"/>
+	<classpathentry kind="src" path="StacksQueues/_6AnimalShelter"/>
+	<classpathentry kind="src" path="TreesGraphs"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
